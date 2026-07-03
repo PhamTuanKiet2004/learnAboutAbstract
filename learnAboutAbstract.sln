@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learnAboutAbstract", "learn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapTrenLop", "BaiTapTrenLop\BaiTapTrenLop.csproj", "{D5631087-3803-49DC-B288-040C92FB9002}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LyThuyet", "LyThuyet\LyThuyet.csproj", "{FA78F40E-6CD0-46F6-B1BF-AA7BD539CCB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{D5631087-3803-49DC-B288-040C92FB9002}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5631087-3803-49DC-B288-040C92FB9002}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5631087-3803-49DC-B288-040C92FB9002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA78F40E-6CD0-46F6-B1BF-AA7BD539CCB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA78F40E-6CD0-46F6-B1BF-AA7BD539CCB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA78F40E-6CD0-46F6-B1BF-AA7BD539CCB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA78F40E-6CD0-46F6-B1BF-AA7BD539CCB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
